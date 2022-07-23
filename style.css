@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    color: bisque;
+    background-color: royalblue;
+    margin-left: 40px;
+}
+.pstyle{
+    height: 400px;
+    width: 400px;
+    text-align: justify;
+    line-height: 24px;
+    border: 2px solid royalblue;
+    overflow: scroll;
+}
