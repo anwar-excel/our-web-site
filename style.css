@@ -16,3 +16,16 @@ body{
     border: 2px solid royalblue;
     overflow: scroll;
 }
+
+.mydiv{
+    width: 300px;
+    height: 80px;
+    background-color: brown;
+    transition: 1s;
+}
+
+.mydiv:hover{
+    width: 350px;
+    height: 120px;
+    background-color: royalblue;
+}
